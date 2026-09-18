@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "0e280ee93b8412ebd45af511",
+  "owner": "rywytw3jm",
+  "repo": "page-8abb1e391e6e99c8f2a8245d",
+  "title": "免费订阅导入",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8abb1e391e6e99c8f2a8245d",
+      "a": "墙洞(Dler)",
+      "b": "免费订阅导入",
+      "entity": "墙洞(Dler)",
+      "brand": "免费订阅导入",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "65c559b22f3428a29beeb1237875e57f3ebbe73000ed7950db68164de7c1b15e",
+      "content": {
+        "primary_entity": "墙洞(Dler)",
+        "keyword1": "墙洞(Dler)",
+        "keyword2": "免费订阅导入",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、iOS、Android 与路由器按设备选择客户端，订阅配置方式各有差异。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置墙洞(Dler)",
+          "AI_DESCRIPTION": "，围绕设备数量、订阅周期与节点需求提供三档套餐。基础版适合单人日常使用，旗舰版侧重多设备与游戏加速，团队版面向多人协作与高带宽场景。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求到订阅周期，三点理清配置思路。",
+          "AI_FEATURES_TITLE": "选择前先看这三项",
+          "AI_FEATURE_TEXT_1": "按同时在线设备数挑选：基础版 3 台，旗舰版 5 台，团队版 20 台。",
+          "AI_FEATURE_TEXT_2": "按月付或按年付订阅，套餐流量每月刷新，年度方案可折算为月均成本。",
+          "AI_FEATURE_TEXT_3": "游戏与流媒体需求较多时，优先考虑 IPLC 专线与原生解锁节点。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "订阅周期",
+          "AI_FEATURE_TITLE_3": "节点需求",
+          "AI_GUIDE_INTRO": "选择服务、核对设备适配、在对应客户端配置订阅，三步完成。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "墙洞(Dler) 提供基础版、旗舰版与团队版三档订阅，覆盖 3 至 20 台设备与每月 100GB 至 1000GB 流量，适合按设备数量和使用强度选择。",
+          "AI_HERO_SUBTITLE": "按设备与流量选订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线与游戏优化",
+          "AI_HIGHLIGHT_3": "按月或按年付，流量每月刷新",
+          "AI_PLANS_INTRO": "对比三档套餐的设备数、月流量与年度价格，按需选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和月流量需求，从三档套餐中选择合适的一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备类型与同时在线数量，避免超限。",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅配置，完成节点连接与测试。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "墙洞(Dler) 订阅选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版适合单人轻度使用，提供 100GB 流量与 3 台设备；旗舰版增加至 300GB 流量、5 台设备并加入 IPLC 专线游戏优化；团队版提供 1000GB 流量、20 台设备与专属客户经理服务。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "依据所选档位而定，基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版为 20 台。超出数量时会出现连接冲突，建议先统计常用终端后再升级档位。",
+          "AI_FAQ_QUESTION_3": "年付比月付能节省多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。按年付费相当于少付两个月，长期使用更为划算。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入到客户端？",
+          "AI_FAQ_ANSWER_4": "先在设备上安装匹配系统的客户端，再按客户端文档导入订阅链接或配置文件，加载完成后选择节点即可连接。不同客户端菜单名称略有差异，以所用客户端文档为准。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供 20 台设备与 1000GB 月流量，并支持企业定制路由，适合小型工作室或多人协作团队统一管理订阅和线路分配。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3b9bbf906e7dd91030ace6d79d648b85916cdcbcf46f9048eb5441c403084169",
+    "sitemap.xml": "f7b32ed87bbe754a206fde57c91f775dae6ad9663427f6a4b5ebaaa88c61676f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "1e7f0fe9cdf7b4c2571a8545de5ff306604e9b73d8c8a07847c478ad54a4a622"
+}
